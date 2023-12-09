@@ -18,7 +18,9 @@
 - LINE株式会社  
   ハッカソンコース 2023年8月30日-2023年9月15日  
   テーマ：フードデリバリードライバーアプリ  
-  業務内容：Swiftを用いたiosクライアント開発
+  業務内容：Swiftを用いたiosクライアント開発  
+  最終日の報告会で使用したスライドは [こちら](https://docs.google.com/presentation/d/1V0iXQB9ypnodIqNlphWFA1AadVZQaymdW28qMjVFh4A/edit?usp=sharing)  
+  スライド作成は解決方法の部分を担当
 
 ***
  
